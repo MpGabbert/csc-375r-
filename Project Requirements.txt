@@ -1,1 +1,26 @@
-User athentiction 
+User athentiction  
+Requirements document 
+
+•	Functional requirements 
+o	Log in page 
+	2 set of requirements 
+•	Login page will have two options 
+o	Senior- login in is correct then it will allow you to go into two different chat rooms one with senior exec that juniors can not get into 
+o	Junior login- juniors if password is accepted then they will be allowed into the lower chat room where they can talk with each other and seniors but will not be able to view senior to senior interactions  
+	Archives  
+o	Seniors- need to be able to look at all the interactions between each other and how the juniors communicate and what they are communicating about 
+o	Juniors need to able to go back and look at their previous conversations and view what was happening 
+	  How to remove users 
+o	Go into database delete password and username immediately after terminated   
+	Administrative access 
+o	Dual mandated access entries, so that one administrative can not seek revenge against company  
+•	Nonfunctional requirements 
+o	When do we want users to have access to the IM? 
+o	Security 
+	 Passwords 
+•	8 character min, must have a symbol, number, Capital letter, no spaces 12 character max 
+•	Can not have duplicate passwords  
+	Usernames 
+•	Distributed by admin 
+•	5 numbers 
+	
